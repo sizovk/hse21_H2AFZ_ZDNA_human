@@ -24,12 +24,16 @@
 ## Расположение пиков гистоновой метки относительно аннотированных генов
 
 ### ENCFF042UAX
+<img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/chip_seeker_H2AFZ_parathyroid_adenoma_ENCFF042UAX_hg19_filtered.png?raw=true"/>
 
 ### ENCFF042UAX
+<img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/chip_seeker_H2AFZ_parathyroid_adenoma_ENCFF452OXY_hg19_filtered.png?raw=true"/>
 
 ### DeepZ
+<img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/chip_seeker.DeepZ.plotAnnoPie.png?raw=true"/>
 
 ### Пересечения H2AFZ и DeepZ
+<img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/chip_seeker_H2AFZ_parathyroid_adenoma_intersect_with_DeepZ_plotAnnoPie.png?raw=true">
 
 
 ## Геномный браузер
