@@ -21,6 +21,16 @@
 ### Гистограммы длин участков Z-DNA DeepZ и их пересечения с H2AFZ
 <img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/zdna_len_hist.png?raw=true"/>
 
+## Расположение пиков гистоновой метки относительно аннотированных генов
+
+### ENCFF042UAX
+
+### ENCFF042UAX
+
+### DeepZ
+
+### Пересечения H2AFZ и DeepZ
+
 
 ## Геномный браузер
 Сохраненная сессия в UCSC Genome Browser: https://genome.ucsc.edu/s/sizovki/hse21_H2AFZ_ZDNA_human
