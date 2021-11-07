@@ -46,3 +46,7 @@
 `chr1:3712992-3713247`
 <img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/section_2.png?raw=true"/>
 
+
+## GO-анализ
+Был проведен GO-анализ для уникальных генов с использованием сайта http://pantherdb.org/
+
