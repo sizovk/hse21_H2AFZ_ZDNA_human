@@ -50,3 +50,10 @@
 ## GO-анализ
 Был проведен GO-анализ для уникальных генов с использованием сайта http://pantherdb.org/
 
+Общая информация
+<img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/go_result.png?raw=true"/>
+
+Наиболее значимые категории
+<img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/go_top_categories.png?raw=true"/>
+
+Полный список категорий приведен [здесь](https://raw.githubusercontent.com/sizovk/hse21_H2AFZ_ZDNA_human/main/data/go_analysis.txt)
