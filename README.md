@@ -57,3 +57,6 @@
 <img src="https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/images/go_top_categories.png?raw=true"/>
 
 Полный список категорий приведен [здесь](https://raw.githubusercontent.com/sizovk/hse21_H2AFZ_ZDNA_human/main/data/go_analysis.txt)
+
+## ДЗ-2
+Второе дз было посвящено предсказанию участков пересечения вторичной структуры и гистоновой метки при помощи сверточных нейронных сетей. Код смотреть в [ноутбуке](https://github.com/sizovk/hse21_H2AFZ_ZDNA_human/blob/main/predict_intersect.ipynb).
